@@ -1,0 +1,36 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@wichteln.de
+      name: Admin
+      password: $2b$12$BM8fXjlyqkpQwR/1Lwefv.ZyMjL0wTsJftG/MDnUUc7JwOITdInNa
+      role: admin
+    paul:
+      email: paul@wichteln.de
+      name: Paul
+      password: $2b$12$BM8fXjlyqkpQwR/1Lwefv.ZyMjL0wTsJftG/MDnUUc7JwOITdInNa
+      role: user
+    katrin:
+      email: katrin@wichteln.de
+      name: Katrin
+      password: $2b$12$IBRbMmO92ixUxorFzDY0XOgVgA8LToscvZJ2xKTuoSO4te4k5ye3e
+      role: user
+    joachim:
+      email: joachim@wichteln.de
+      name: Joachim
+      password: $2b$12$4.CxT9lnHpWQAqG5P/jpyOsiK/X86f67IPhpAAtBjktcKVAEITYUq
+      role: user
+    amon:
+      email: amon@wichteln.de
+      name: Amon
+      password: $2b$12$pEaMXlYO/A/lisef/L3DBOTNnCYQnpKdZ2BR8KBxNbl/Yll88.ARi
+      role: user
+
+
+cookie:
+  expiry_days: 30
+  key: wichtel_secret_key_2024_change_this
+  name: wichtel_cookie
+
+preauthorized:
+  emails:
